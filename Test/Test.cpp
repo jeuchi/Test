@@ -6,7 +6,4 @@
 int main()
 {
     std::cout << "messing!\n";
-    std::cout << "messing!\n";
-    std::cout << "messing!\n";
-    std::cout << "keep it like this!\n";
 }
