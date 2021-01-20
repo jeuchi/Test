@@ -5,6 +5,5 @@
 
 int main()
 {
-    std::cout << "Hello World, what's your sdsdsdname\n";
-    std::cout << "Hello World, what's your sdsdsdname\n";
+    std::cout << "Hello World, e\n";
 }
