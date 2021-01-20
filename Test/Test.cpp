@@ -6,4 +6,5 @@
 int main()
 {
     std::cout << "Hello World, what's your name\n";
+    std::cout << "Added new feature!\n";
 }
