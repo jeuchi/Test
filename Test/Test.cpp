@@ -2,8 +2,19 @@
 //
 
 #include <iostream>
+#include "Store.h"
 
 int main()
 {
-    std::cout << "Final merge fix, e\n";
+	Basket pBasket;
+	pBasket.m_nApples = 5;
+
+	Basket pBasket2;
+	pBasket2.m_nGrapes = 2;
+
+	Store Safeway(&pBasket);
+	Store Walmart(&pBasket2);
+
+	Safeway.PrintShoppingList();
+	Walmart.PrintShoppingList();
 }
