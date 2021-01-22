@@ -10,7 +10,7 @@ int main()
 	pBasket.m_nApples = 1; //FINAL KEEP
 
 	Basket pBasket2;
-	pBasket2.m_nGrapes = 6;
+	pBasket2.m_nGrapes = 10; // updated grapes
 
 	Store Safeway(&pBasket);
 	Store Walmart(&pBasket2);
