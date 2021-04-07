@@ -5,6 +5,7 @@
 #include "main.h"
 #include <stdint.h>
 
+/* Feature 1 commit */
 
 uint8_t sumValues(uint8_t ucOperand1, uint8_t ucOperand2)
 {
