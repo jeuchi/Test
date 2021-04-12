@@ -9,6 +9,8 @@
 
 /* Feature 2, first */
 
+/* Feature 2, first */
+
 uint8_t sumValues(uint8_t ucOperand1, uint8_t ucOperand2)
 {
 	return ucOperand1 + ucOperand2;
